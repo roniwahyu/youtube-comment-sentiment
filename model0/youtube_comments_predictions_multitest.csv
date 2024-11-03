@@ -1,0 +1,798 @@
+Author,Timestamp,Likes,Comment,RandomForest_Prediction_test_size_0.2,NaiveBayes_Prediction_test_size_0.2,XGBoost_Prediction_test_size_0.2,SVM_Linear_Prediction_test_size_0.2,SVM_RBF_Prediction_test_size_0.2,SVM_Poly_Prediction_test_size_0.2,SVM_Sigmoid_Prediction_test_size_0.2,RandomForest_Prediction_test_size_0.25,NaiveBayes_Prediction_test_size_0.25,XGBoost_Prediction_test_size_0.25,SVM_Linear_Prediction_test_size_0.25,SVM_RBF_Prediction_test_size_0.25,SVM_Poly_Prediction_test_size_0.25,SVM_Sigmoid_Prediction_test_size_0.25,RandomForest_Prediction_test_size_0.3,NaiveBayes_Prediction_test_size_0.3,XGBoost_Prediction_test_size_0.3,SVM_Linear_Prediction_test_size_0.3,SVM_RBF_Prediction_test_size_0.3,SVM_Poly_Prediction_test_size_0.3,SVM_Sigmoid_Prediction_test_size_0.3,RandomForest_Prediction_test_size_0.35,NaiveBayes_Prediction_test_size_0.35,XGBoost_Prediction_test_size_0.35,SVM_Linear_Prediction_test_size_0.35,SVM_RBF_Prediction_test_size_0.35,SVM_Poly_Prediction_test_size_0.35,SVM_Sigmoid_Prediction_test_size_0.35
+@holdtightadele8017,2 days ago,132.0,Thomas Partey… man has been bringing it lately.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@archanakhakase6357,2 days ago,76.0,Saka is the best he prove this  everytime by doing goal in every important match,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@kabiruddin434,2 days ago,948.0,That pass from Ben White to Saka was amazing. ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@everythingarsenaltv,2 days ago,591.0,Saka and Partey were so so good man ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@tggazard9840,2 days ago,54.0,""" Keep Saka's name out your mouth,  dude is world class.",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+@joetoroitich4491,2 days ago,25.0,We are nearing perfection that's all I can say .Top quality performance from Saka and the team,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ĐoubleĤtee,2 days ago,20.0,Saka and Party were so good,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@IamBoiBin,2 days ago,216.0,Not even a Liverpool fan but that play from Nunez and Salah ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@tumusantrina2055,2 days ago,22.0,"I am proud of fans who are always behind the team in bad , in good keep it up ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@jack.1.,2 days ago,210.0,Van Dijk is just always there. He has so much presence,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@ultraslanmc,2 days ago,336.0,"Bukayo Saka, i could watch you play football for hours and not get bored. What a player man we are so lucky to have him",1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,1
+@Christohh,2 days ago,264.0,Running out of words to describe Saka,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@bobkhanofficial220,1 day ago,5.0,I’m so happy for salah to stay at Liverpool. Magic player.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@augustinequoi294,2 days ago,61.0,SakaSaka is not world class but he does this every season,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1
+@fudgerace4356,2 days ago (edited),15.0,"1:23 Trent long pass moves like a golf ball, Nunez didnt even hv to control it",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@JenesyAliro,2 days ago,88.0,Thomas Partey and Ben White. Give them too their flowers right now ️,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@Jshah1,2 days ago,285.0,Hope gabi and timbs are fit and riccy aswell we have a huge defensive crisis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@NayZhong,2 days ago,78.0,And there was no card for L.Dias who kicked the ball away to delay. ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@ossnips9329,2 days ago,66.0,Saka was soo good today. 50 PL goals now ,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Ahongnumberone1,2 days ago,9.0,Trent corner kick still dangerous,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@AD0de,2 days ago,5.0,"From a Liverpool fan, We didn't have Allison, but I think those goals go in anyway, there's so much quality in this Arsenal side, I actually expected a loss, You lot are actually so good you drag our performances up with you, Especially Nunez...",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@AndHeScores,1 day ago,10.0,Appreciation for Salah how he crossed path when Nunez ran with ball. Quick and genius thinking. Salah was just unstoppable! ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@raishunil5468,2 days ago,132.0,"Without Saliba,Odegard,Calafiori players like Saka,Ben white,Timber just back from injury. We played good game. COYG",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@mahfuzurrahman-iz8wp,2 days ago,3.0,Saka's amazing goal was similar to that of  Gunners legend Dennis Bergkamp when he scored against Argentina in 1998 WC QF.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@cantoncornel6948,2 days ago,3.0,Partey put in 9/10 display,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kinsellaSE7,1 day ago,4.0,How dare Kiwior jump higher than a man standing waiting for the ball to come down. Lol the rest of the world must laugh at this refereeing as much as we do ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@aryanmane5981,1 day ago,1.0,Konate was THE MAN OF MATCH Phenomenal Defense.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@jkk4579,2 days ago,7.0,That Liverpool goal guys by Salah was well constructed and executed so sweet to watch,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@martinmburu819,1 day ago,1.0,That finish from Saka is  on another level,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@victapg_gram,2 days ago,3.0,fantastic goal from saka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@madebylewis,2 days ago,6.0,"Martinelli such a lightweight player, so easy to dispossess, upgrade urgently needed on the left-side to take the burden off Saka in big games (Mitoma, Rodrygo, or Diaz/Gakpo, whoever is most unhappy)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0
+@mochhendriksiswanto457,2 days ago,47.0,Great perform for Mo Salah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@SightedRain40,2 days ago,3.0,"Saka chopping it inside to his left WITH his left… inch perfect and drills it in the roof.
+
+WORLD. CLASS ️",0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+@simonghostriley111,2 days ago,123.0,Gonna be hard to drop partey once odegard is back. He's been our best midfielder this season.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@air9bloodhand,2 days ago,2.0,amazing game! without some of our top players. Fantastic!,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@zakharegorov3232,2 days ago,8.0,Saka goal reminds me Bergcamp vs Ayala,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@jwpark1235,2 days ago,16.0,"Even though many players were out, we did our best 
+We believe you guys",0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1
+@dafny1002,2 days ago,145.0,Ok but why did Anthony Taylor blow.. Havertz didn't fowl anyone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@MatthewJacobLloyd-smithAcsbr,2 days ago,2.0,Saka made Robertson sit down in 0.21,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@ronaldd9006,2 days ago,16.0,"1:43 kiwior win the header szobo didn't protest, havertz win the duel konate didn't protest too but the ref blow the whistle even TAA try to save the ball",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@alfa_674,12 hours ago,1.0,1:23 YNWA,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Dirgantoro-rr2bb,2 days ago,56.0,Arsenal's defense after Gabriel left is very worrying,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+@BougoumaNgane,16 hours ago,1.0,Quelle passe,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Sam__The__Slayer,2 days ago,1.0,What A Game By Saka,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@TA-vc9fr,2 days ago,2.0,Mo Salah,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@tochukwuudu7763,2 days ago,15.0,"Big ups lad, we've been so unlucky with these injuries, before timber and gabby got taken out we had liverpool on the ropes.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@elmansadiqov5873,2 days ago,1.0,Salahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@grunklesmuff,2 days ago,68.0,Can't wait to play at Anfield with our full team. Great performance,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@GameFreak-GF,2 days ago,10.0,"With our current condition, I'll take that as a good result. Well done boys!!",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@axzrlx7230,2 days ago,2.0,Shame it was ruined by the ref yet again,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@CYBER_DRIBBLER,2 days ago,7.0,Can’t believe Starboy Saka sent Robertson to the ground and scored that banger ,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@zeegistv,2 days ago,2.0,Diaz's nutmeg made my day ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@SheinMinKhant-x7x,2 days ago (edited),40.0,"This is Arsenal 
+This is Mikel Arteta 
+This is Bukayo Saka ️",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@muthangyam,2 days ago,2.0,"Partey hes so good , him with rice is diamond partnership",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@dmitriyobidin6049,2 days ago,8.0,"MC will take the crown, again...",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@AndHeScores,1 day ago,1.0,"Salah is so good even at this age! He is just brilliant. You don’t need to be Liverpool fan to say that.  
+And Saka actually pocketed Robertson!",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@williamyjord8366,1 day ago,,What a goal from saka,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@everythingarsenaltv,2 days ago,20.0,Beckham  BEND IT LIKE DECLAN RICE  Those crosses were phenomenal!,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@MMANRULZE123,1 day ago,1.0,"As an Arsenal fan, that last goal should've been allowed",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1
+@jeseemwangi9198,2 days ago,,"Really enjoyed the game, the boys were amazing, opponents were just lucky to come out with a point.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@iykeharrison9161,2 days ago,303.0,I still don't understand how Kiwior was adjudged to have committed a foul for simply jumping to win a header. Scandalous decision there by the Ref.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@ultraslanmc,2 days ago,26.0,"Saka is easily one of the best players in the world. He’s been immense this season, going to win the POTS and Playmaker award, watch. Martinelli Penalty and Jesus goal not given, but i’m not gonna waste my time on corruption.",0,1,0,1,0,1,1,1,1,0,0,0,1,0,1,1,0,1,0,1,1,0,1,0,1,1,1,0
+@LwandleDlamini_,1 day ago,,"Watching anthony taylor stop the play back again is absolutely crazy as soon as we gained an advantage he cut it, let the game flow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Ars97-g1l,1 day ago,,It's a shame we didn't win. Hope players are well for next matches.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@darkvather8771,2 days ago,20.0,Saka needs more respect. One of the most underrated wingers in the league ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@LJJsutt,2 days ago,1.0,I can honestly see Saka being the next one club player,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@tyre9396,2 days ago,,"Mikel please I beg you that with the kind of current fixtures , make good substitutions, good use of talented players like Nwaneri, Joghino, Kiwior etc to minimize fatigue, injuries and change the game. Stop being too defensive when you are leading with only one goal.",0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,0,0
+@chikaokeke5297,2 days ago,96.0,As an Arsenal fan are we supposed to be watching football again? Watch your team been officiated differently. Robbed so hard that even the players sometimes are scared to express themselves on the pitch. When will this end? A lot of Arsenal fans are losing interest in football,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,1
+@derrickringtho2563,2 days ago,1.0,We need another creative channel coz when saka is injured the team lacks that.. Saka was immense,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@Dirgantoro-rr2bb,2 days ago,49.0,I hate EPL referees,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Groovepaul,2 days ago,,This is going to be an exciting race to the finish in the Premier League. Many solid teams all in striking form to take the title.,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@Dirgantoro-rr2bb,2 days ago,18.0,"Goal salah Coming from the position of Timber which was replaced, it should be included in Zinenko",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@nechiforvlad-marian9673,2 days ago,,What a beautiful match.I love these two teams so much.And especially I love English football the most in this world.I hope that at least one of them can dethrone City's dominance and win the Premier League in the future. Maybe even both. And become the best teams.,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@Chriss4123,2 days ago,43.0,"Every day I ask why is it always us that has to deal with all of these constant injuries, I’m praying big Gabi and JT are both ok  ",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@user-EDGarsenal,2 days ago,1.0,SAKAamazing,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@hendrik19601,2 days ago,,"Salah is very smart, how he saw his chance to make that second goal...",0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1
+@olufemimoses967,2 days ago,5.0,Am still trying to understand why the ref blow his whistle when Arsenal was about to score there 3rd goal cos i didn't see any faul in the build up.,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@ebubeemmanuel6231,2 days ago,14.0,Jakub kiwior is not yet Ready to challenge the arsenal defense,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@gideonnyoike8970,2 days ago,1.0,Thomas partey was so good today,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@gideonnyoike8970,2 days ago,1.0,Thomas partey was so good today,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Rainstorm4000,2 days ago,15.0,"Van Dijk should've been sent off for a foul against Havertz, Arsenal should've gotten a penalty for Konate tackle on Martinelli, there was no foul for Jesus disallowed goal and we should've gotten a corner at the end...",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@remyedmonds960,2 days ago,1.0,Saka is pure class. Arsenal ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Ben_204,2 days ago,39.0,Why was our third disallowed I don’t see a foul,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@bronniesboy,2 days ago,19.0,Why the blazes was that last goal disallowed,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@thomaselers7416,2 days ago,3.0,"Ben Stiller, Gabri, White Rice and Sake. They're all there today, they all played their part with their pants on. As respectable as Mel & Kim.",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@owenleecomics,2 days ago,,"Great Arteta job. I was even scared without ode, saliba and when Gabi got out my condition even got worse. When I saw skelly against salahbut we managed to get a point. 
+Ben white assist ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@damii_11,2 days ago,3.0,That ball from rice ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@agoodchow,2 days ago,,"What is stranger/amazing about the final goal is   
+actually the ball was for Salah to chase,  instead very diligent N ran to the ball and Salah instantly understood and ran to the middle.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@ronneanderson6794,2 days ago,3.0,That saka goal is out of this world ,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@duncansmithbukenya1767,2 days ago,1.0,Saka de star boy ,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@glennmarlon,2 days ago,14.0,"So, when kiwior makes the challenge, the ref doesnt react. But when Havertz gets on goal, he whistles. And no reaction from any liverpool player, not even the one who gets ""foulded"". That is not fair at all.",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@KHEM7gaming-d2n,2 days ago,,Saka  so good man,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@christiansimbarashe,2 days ago,7.0,best league. worst refs. they'll be responsible for the downfall of epl. I'm sure there's a calciopoli-like scandal coming. mark my words,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Andy5682fly,1 day ago,,"I'm so proud of this team, even when the odds are constantly against us we stood up and made ourselves be counted. I have to say I'm really fed up with the refereeing in this league, it's no longer the Premier League as it should be the Referees' League. The only thing that is stellar right now is our own players.",0,1,0,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@hul1127,2 days ago,7.0,Kiwior MOTM ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@leoemrys5751,2 days ago,,"As a messi fan, watching players like Salah, Saka, Palmer, Yamal is like enjoying small specific parts of Messi.",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@M4NA5,2 days ago,3.0,Super proud of the team. Outplayed them despite missing key players. Onto the next one. COYG!,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@pushpendergusain4262,2 days ago,1.0,"Saka, back on the bang.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@AgentCharisma,2 days ago,3.0,We were cheated a third goal by the referee! He saw no foul until he realized we were about to score... Why did he hesitate so long to blow the whistle and clearly it wasn't for an advantage?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@PrinceHalls-yx1hj,2 days ago,2.0,Saka is the presently the best right winger in the league. You may argue with your phone. That is fact,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@jaan2386,2 days ago,1.0,M Salah ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@edosmile2128,2 days ago,1.0,Kiwior is not good enough we need too sell him this Winter,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@foyazsarkarniber,2 days ago,1.0,Love from Bangladesh 🇧🇩🇧🇩🇧🇩,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mohamedfarah4216,2 days ago,1.0,That was like mpappe finish by saka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@YuhuuDMan-d8d,2 days ago,32.0,Havertz was still moving and that’s a goal,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@WASEDTZ,2 days ago,,What a match man!!!!,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@KingDavidChris-James,2 days ago,1.0,Martinelli really tried Keep it up,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+@YourFreindlyNeighbourhoodDiv5,2 days ago,1.0,Robertson got absolutely done,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@parpletv3071,2 days ago,7.0,excellent pass from Trent,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@mrzubik3827,2 days ago,1.0,Luis Diaz ️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@niccolouserasto3485,2 days ago,4.0,Until i die I love arsenal the gunners  like this comment 🇹🇿,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0
+@flyingoctopus9846,2 days ago,,Another top quality ref,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Jere-Von_trotz,2 days ago (edited),17.0,"It's funny how people don't consider that , Arsenal plays  Partey at RB for now, White as CB although he used to be one , Gabriel and timber were than subed due to injury which changed the game, Saka was not fully fit...they were without Odegaard, Calafiori and Saliba ,And you guys want them to win against Liverpool who only had 1 crucial player missing which is Jota i guess",0,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@toucheturtle3840,20 hours ago,,Saka’s goal reminded me of Bergkamp.,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@nezargatere4710,2 days ago,,beautiful game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@UnderstandingYourConvenience,2 days ago,25.0,If you look closely he blows the whistle when he sees havertz is going to score,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@dominicndungu1311,2 days ago,,Goooooood job Arsenal. We keep on moving,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@EmmanuelDirisu-n4i,2 days ago,1.0,Salah,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@vincentjunior9017,2 days ago,4.0,Should have won,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@achampionsmentality5246,2 days ago (edited),20.0,"As a football fan, that last goal should've counted. It have nothing to do with what team you back. There was no foul. If it was a foul right away the ref would've blown right there because it is no way the other team had any advantage of play. But the ref waits all that time to kill time (no) to see if the arsenal player will score (very shady indeed) also the last play should've been a corner.",1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@samuelkamau1550,2 days ago,1.0,uncle Partey was at his best today,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@davidn7761,2 days ago,25.0,"watch how the ref first waits, and when Havertz is through, he blows the whistle. He clearly did it intentionally. If Havertz didnt go through forward, he would have never blown that whistle. He is really unscrupulous",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1
+@ruslanArsenal,2 days ago,,Только только Арсенал всегда в моём сердце ️️️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Rich-lu2uh,2 days ago (edited),30.0,1:41 look at how many times the ref goes to try and give a foul against us. He goes to bring his whistle up so many times. Waiting for any opportunity. It's painful to see. This is our Zapruder tape.,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,1
+@charlesapana9935,2 days ago,,Pretty fair results at the end,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@brendonthomas2555,2 days ago,11.0,"Taylor senses a goal threat from Kai and then blows. Great defending by the 12th man. But seriously, this is disgusting and I'm fed up of it! COYG!",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Rainstorm4000,2 days ago,6.0,Antony Taylor Was The Man Of The Match,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@andromeda447,2 days ago,9.0,Martinelli's position was not given a clear penalty. The goal scored in the last minutes was cancelled. Nothing much has changed since the past years. Arsenal's rights continue to be usurped. It's such a shame.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@grahamgoodman4212,2 days ago,3.0,If you look closely you can see the exact moment Taylor blew the whistle for a foul. As soon as havertz had a chance to score. It’s a disgrace. He didn’t call the foul until havertz headed it to himself,0,1,0,1,0,1,0,1,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0
+@marknjenga8049,2 days ago,,"Liverpool ate that game , we are tooo relaxed",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@BavaAbdu,2 days ago,5.0,Salah super star player ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@nafzter,2 days ago,13.0,Yeah..the announcer was so amazed at every arsenal goals...and sound so dissapointed at every liverpool goals......oooh..it's so UNBELIEVABLE....,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@xavierbek8633,2 days ago,1.0,Ridiculous to blow a whistle for a foul when the the Liverpool player didn't even make a reaction from Kiwior's header 1:45,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+@AndHeScores,1 day ago (edited),1.0,Arsenal played really well! I wonder how you guys lost to Bournemouth?! Man City really has to level up if they want to win PL this year.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@CYBER_DRIBBLER,2 days ago,3.0,We deserved the win in this match ️,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@bonginkosibobo93,2 days ago,,"We are an attacking brand, So much Respect for our manager, But he must master the art of managing the game especially  when u have three top midfielders on the field, P.R&M. He will be the first to lift UCL for gooners. This team is happy and hungry. The Refs are fuelling us",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@truegunner7223,2 days ago,16.0,Our rivals are left totally disgusted watching us school Liverpool with half of our first team out injured.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Livenation-254Tv,2 days ago,,That's why we wanted him back,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Dirgantoro-rr2bb,2 days ago,10.0,"My heart hurts, the wrong goal came from Timber's position being replaced  Arteta should have brought on zincenko",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ynwa3573,2 days ago,,What Arteta build and is building in Arsenal deserves respect 🫡 . YNWA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+@kenchanda8592,2 days ago,3.0,Liverpool was overrated before the game. But only to be saved by brazen corrupt referee against the  B team Arsenal... Shame!!!,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@sashankabarman7217,2 days ago,,Kiwior and skelly were confused. Salah knew how to capitalize and moved into space and simple finish.,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@smirk.95,2 days ago,3.0,Teach Havert ball controlling & finishing ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@LuckyVideoGames-ll2bv,1 day ago,,Please kindly win the league  for us,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@ondrejlekes9850,2 days ago,3.0,What a third goal. I think ist regular goal.,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@laughterchannel1952,2 days ago,2.0,"So looking at Saka's quality is Foden better??
+I mean just look at what he did to Robertson",0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@jowerianakafeero8580,1 day ago,,Thamos was my man of the match  he was very good in number 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@COYGEmriatesAFC,2 days ago,1.0,The ref sold us at ast saka is youngest Arsenal player ever to score 50 goals in all competions!,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@АрсенийНиколаев-к2о,1 day ago,,"COYG Красавцы, хорошо сыграли, хоть и ничью",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@AungTun-z9u,2 days ago,,"Nothing to say more...
+
+Five years Arteta's team progress < Half years Maresca's team progress
+
+(Most defence attitude < Most attacking attitude)
+
+(Excuses & Biases < Adaptability & Development)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@moes-ub2wm,2 days ago,,2 2 against Liverpool without Saliba and Ödegaard is not bad but to become Champions Arsenal needs to step up ASAP. The width of the selection is sufficient compared to previous seasons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@max_kimamo,2 days ago (edited),,"Given our team's injuries, this was Liverpool's chance to make a statement and blow us out of the title race. But by the way we played, almost winning it at the end, I'd say we're still in it. Credit to the lads for giving it a good shot. Recover, and keep pushing on. COYG 
+Bless up ",0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+@Akatsuki75538,2 days ago,1.0,"Arsenal need a pure striker, come on Arsenal bring in striker Gyokeres ",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@tomchania5262,2 days ago,,"Congratulations boys...
+Am worried about the injuries we got yesterday....timber, big Gabby,......cala is out ,Tommy is out ..but we trust the process",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@andyandre7814,2 days ago,2.0,Saka sat down shipped to Scotland and ended Robertson's career,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@huberttemu2205,2 days ago,1.0,After replay i see after Kivior wins the header the ball falls to a raised Kai arm..i think thats why the ref blows the whistle,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@benjaminkofibayor1510,2 days ago,,Nice performance from the guys. Let's get back to the winning way. We are winning the title this season,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@merlymerlzP,1 day ago,,Is it me or the ref only blows his whistle as soon as he realises Havertz is through haha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@serhiisiryi6778,2 days ago,,VVD is running back to help Robertson in the first goal like he didn't want that child,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@stanleyugah8479,2 days ago,2.0,Please can someone tell me why the ref waited for Havertz to be on goal before he blew his whistle and what was foul was it for?,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@ahmadomar5806,2 days ago,1.0,Next season fc hopes shattered with Salahs goal ,0,1,0,1,1,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@KABABAYE_Mkenya,2 days ago,2.0,My main dream is to watch Arsenal playing at Emirates Stadium So help me God,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@mahfuzurrahman-iz8wp,2 days ago,,"Arsenal at least avoided a red card this time. That's satisfying plus Saka, Merino back from injury and Merino getting his first Gunner goal. So despite some dropped points Arsenal are  back ontrack.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@Bae_Rina77,2 days ago,,Liverpool is amazing...,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@bumfluffski,2 days ago (edited),2.0,"Anthony Taylor waiting for Kai to touch the ball to deny that goal is criminal.
+He could've let the play unfold and let VAR look at it (And give us a red card or something, I don't know what they do anymore...)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@pkitatta,2 days ago,,Liverpool occasionally moved out of first gear and got away with a draw. Arsenal was at it's level best. This says a lot for how this season will end.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@seifcrony7595,2 days ago,2.0,Fair to say Bukayo Saka is a new Messi,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@thiensontruong2026,2 days ago,,Saka thật sự hay,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@MONEY__TREES,2 days ago,1.0,"saka in Arsenal : 
+saka in England :     ",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@gabrielmakoi3905,2 days ago,,I hope this injury and suspension crisis ends.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+@emilbek_isaev,2 days ago,2.0,"Lewis-Skelly wasn't the only one to blame for 2nd goal: Martinelli lost the ball too easily in attack, and because of this Lewis-Skelly didn't have time to get back into defense.
+Incidentally, Martinelli was also to blame for the first goal conceded, he lost his mark on Luis Diaz, allowing him to make an assist to Van Dijk.
+In general, Martinelli plays poorly in defense, and often loses the ball in attack, which leads to effective counter-attacks on his own goal.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@rraaiiyyaann,1 day ago,,Ben White inherited Fabregas shirt and  brought us a Fabregas pass,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@juantello-m1o,2 days ago,,this is a good film.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@AdiletSaralinov-n9g,2 days ago,1.0,Martinelli was our weak point this match… so many chances were inefficiently handled by him,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@TamaleElijah,2 days ago,,Thanks alot.,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1
+@NayZhong,2 days ago,2.0,Why Kiwior challenge is taken as a foul?,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@harrygriffin9396,2 days ago,,That Ben white pass to saka is Toni kross trademark,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@muhamadrifky8073,2 days ago,,Alhamdulilah Saka Dan Merino Buka Keunggulan Arsenal Atas Liverpool Tapi The Red Gol Penyama Virgil Dan MO Salah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@anthrax6835,2 days ago,,"brilliant performance, but injuries really worrying hopefully we can get through this tough period with wins. what was the goal disallowed for btw?",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+@Donoatez29,2 days ago,,You can see how eager Anthony was to blow his whistle for no reason. We won 3-2 in my eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ChenCunLiu,2 days ago,,2-2 the best result for MC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@kshitijjadhao,2 days ago,,Partey is in the form of his life,0,1,0,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ossnips9329,2 days ago,2.0,Saka absolutely skinned Robertson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@EmmanuelDirisu-n4i,2 days ago,1.0,Liverpool were unlucky to have drawn the game ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@MediaHidup,1 day ago,,Lagi musim umpan lambung sepakbola moderan akhirnya balik lagi ke tempo dulu,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@BashPromoter,2 days ago,1.0,Saka from Injury But still Good ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Rashid-k7d,2 days ago,3.0,Salah is the most underrated  player of EPL,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@asdflux,2 days ago,,"always counter attack... always suffer.. defending like that... heartbreaker to see salah made a goal.... in to next year... we'll be bouncing back,",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@Viralvideossupport,2 days ago,,GUNNERS FOR EVER,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@RosadRizka,2 days ago,1.0,White saka ,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@signore-solomonare1818,2 days ago,1.0,"The game was dirty.
+Played like children attacking each other, but at least Arsenal didn’t lose the game 1 point was a mentality relief .
+Liverpool defence was pretty similar to Arsenal in corner and they scored too, however Merino debuted with the equalizer goal, not bad.
+Not Gunner started to score sooner or history is coming back just like 3 Arteta season",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@bungaldo14,2 days ago,2.0,Why the pause from the refree on the last minute if there was a foul? when havertz did through the defender then he call itu foul.. ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Anto-xh5vn,2 days ago,2.0,Arsenal fans how do you like Anthony Taylor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@DzT910,2 days ago,1.0,everyone was talking ant “too many defenders” imagine if we hadn’t signed them all. we would be in a way worse place with the current injuries,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@dumaniimale3892,2 days ago,,"I am already waiting to go to anfield with our captain back and saliba gabriel in the center. 
+Counting days.....",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@LordBagdanoff,2 days ago,1.0,Lucky that Alison wasn’t playing if not Liverpool will definitely win.,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0
+@normang663,2 days ago,,Not a fan of either. But a great battle of title contenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+@sundayghost1,2 days ago,,Ofc VAR/ref missed the two Van Dijk stud kicks at Havertz,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@carltonkeenan187,2 days ago,, class goal by the boy..gutted about the result..COYG,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0
+@AungTun-z9u,1 day ago,,"If Arsenal never shows their power with actions, others will bully Arsenal again and again.",0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0
+@YohanisMarry-fm2vj,2 days ago,1.0,Space for the citizen,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@juanrichynatanael4470,23 hours ago,,Goalnya salah ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MethOfficail-TV,2 days ago,,Nice  Top fan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ronaldronnie-td6ib,2 days ago,1.0,Haverts will cost Arteta his job,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,1
+@am_evil,2 days ago,,TAA pas is perfect,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@taylsunbo1197,2 days ago,1.0,Sallah got a cheap goal. Poor defense from Kiwior,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@davidokon4733,2 days ago,,Extended highlights,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@AbdulHameed-yy4dq,2 days ago,,Good jobs boys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@kwizeravictor5352,2 days ago,1.0,"Premier league officiating is getting worse everyday , pure corruption ",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@emmanuelmashauri1430,2 days ago,1.0,Star Boy,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@alwaleedalthani9624,2 days ago,2.0,Arsenal has to bring up the refereeing issue it is unacceptable,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@user-us7el6ss2l,2 days ago,,"Why we glazing saka bro,
+also Im glad we drew",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@kendyjapri1559,2 days ago,1.0,Arsenal could be the champion when pep is gone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Modigliandy1404,2 days ago,,The Madness came back by liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@smsun1030,2 days ago,,This result good for city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@medline-r1p,2 days ago,,Liverpool without salah is nothing,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@ranimardika1748,1 day ago,,liverpool amzing...,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@arsenalhenry14vik,2 days ago,2.0,Is anyone know what happened in the third goal ?,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@hamadnahmakroum7269,2 days ago,2.0,Arsenal ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Mukhtar2467,2 days ago,1.0,"We wantt at least a major trophy dis season 
+I’m tired of hearingg “ trust de process “ ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+@jonpowell8503,2 days ago (edited),1.0,"No way was that a foul by Kiwior! The scouser didn’t even bother jumping, just turned his back on the ball! These referees are so poor!!",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@adisudrajat689,1 day ago,,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mrcooljay7276,2 days ago,1.0,I'm so disappointed in this result️. Arsenal should've won this game,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+@muhammadiqbaltawakal5235,2 days ago,,Still waiting for full team,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@khairmiftahul9392,2 days ago,1.0,probably one of the worst officiating I've ever seen...,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ForTv-t2m,2 days ago,,No salah so amazing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@eriquekun,2 days ago,,"Mo Salah owns this club, period!!!!",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@abdulhamidnassur6795,2 days ago,1.0,Martinelli was so poor,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@olisannamdi3070,2 days ago,1.0,English officiating is just despicable,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@TarLwazi,2 days ago,1.0,Saka did Robo dirty,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@sirajtahir7921,2 days ago,,We are LIVERPOOL,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@PanasheSamuell,2 days ago,1.0,City we on top,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@susangajmer441,2 days ago,,Pep is chiling ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@dellendinho,2 days ago,1.0,Man did a Dennis Bergkamp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@bobbybrayanskiprotich.5575,2 days ago,,Saka made Arnold look like  championship material and yet he is not 100% fit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@warnawarni6389,2 days ago,,"As always, when we in good form then injuries came like a curse",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mrrukundoamonjunior,2 days ago,1.0,Thanks gunners but all in all! We need a striker,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1
+@BollaBiff,2 days ago,1.0,"PGMOL’s Premier League.. We should have joined the Super League. Nevertheless, onto the next one!",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ありがとう7,2 days ago,,Nunez,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@graduzpendong1486,2 days ago,,Where is Tomiyasu and Saliba?,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Charles_524,2 days ago,,"The only problem with this team is the way them relent after scoring one, two and three...I don't know if that's arteta tactics but it ain't working that much against the Big six",0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0
+@Jonern12345,2 days ago,,You kept playing despite mac allister being on the ground while we shot the ball out of play when Timber got injured. Just shows what kind of team you are,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@jhesleyrodriguesmeira,2 days ago,,"Our players need to work harder on finishing on goal! 
+
+And Arteta needs to stop insisting on making this team play with a high defense line and playing tricks.
+
+Before criticizing Kiwior, criticize the coach and the way he puts the team to play!",1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1
+@rollercoaster478,6 hours ago,,"LFC defenders and midfielders were too conservative with passes,  except for Salah's goal just one semi-good chance to score and 1 shot on goal (for MacAllister) and it would be a miracle if he did score that (xG=0.08). In the second half LFC controlled the ball 63% but didnt create any chances from open play except for Salah's goal.  Cant win titles if you cant switch on the full out attack, especially when the opponent is vulnerable like Arsenal were, and break down the opponent.",0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@AdenMike,2 days ago,,This game is another evidence that Thomas Partey is a vital part of this current Arsenal project and that is not going to change anytime soon. Of course I know he is 31 years old.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@dafny1002,2 days ago,,Ben White and Partey were  good today..hope Gabriel's injury is not serious,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@qwe-xq8ne,1 hour ago,,"Liverpool fans for the past one year: 
+
+Basketball Odegaard
+
+This game alone:
+
+1. Konate karate kicking Martinelli in the box without the ball - not a penalty
+2. Van Dijk karate kicking Havertz twice off the ball - no VAR review of violent conduct
+3. Diaz kicking the ball away when whistle was blown, no card.",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@satishgoswami9970,2 days ago,,We were dominating the game and we could have easily won the match but unfortunately our defenders got injured anyway well played gunners,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@thebritishbushman8389,2 days ago,,"If there is one Arsenal FC employee feeling bad tonight, it is NJ for that poor defending for Liverpool’s equaliser from the corner. What a mess.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@MrHrishikeshp8,2 days ago (edited),,I forget many times this Liverpool team is playing just there 9th league match under slot. they will improve,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@СвободныйГражданин-ф1м,2 days ago,,Ты никогда не будешь один ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@alfredkay3210,21 hours ago (edited),,"Watch the second goal by Arsenal, play the Video slowly by reducing the speed of the video, you will see that Arsenal players were offside even though they tried to get back on side, but they didn't they were always behind the line formed by Liverpool players. VAR shouldn't allowed that goal. It was a complete Offside goal.",0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@princealozie1943,2 days ago,,"This is mad, all the Liverpool players and their no8 didn’t even expect a free kick! The ref just gave it ",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@jonahbogere4110,2 days ago,,The commentator is an Arsenal fun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@tonymorris254,2 days ago,1.0,"Arteta substituting experienced players with academy players,especially in the defense,will cost him the league.",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1
+@juantello-m1o,2 days ago,,The present one can be nice scene.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@RealJOGBz,2 days ago,2.0,Can somebody explain to me why Havertz goal was cancelled? ️,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@princedaniel3195,2 days ago,1.0,Am beginning to hate these EPL referees. Can't we just be given an opportunity to play in Laliga coz its seems like premier league doesn't want us to participate in their league,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@jesusslord,2 days ago,,"No Saliba ,has cost us.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@debiaagu2635,2 days ago,,Arnold and Robertson were ghost ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+@isaac4393,2 days ago,,Arsenal has been flying,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@user-ze3nl2kc2f,2 days ago,1.0,"Length of time VAR took over the Merino  goal. They were desperate not to give it. 
+Havertz, where was the foul? The refs will not let us win the prem under any circumstances. Mansours got every base covered. Congrats to City on 5 and 6 in a row",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+@markdanghyan3396,2 days ago,,"Arteta said we will be flying, we have flown away from title race",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+@matthewpotts5100,2 days ago,1.0,Blowing the whistle there should be a prison sentence,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MK-mq6vy,2 days ago,1.0,Kiwior Kiwior Kiwior,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@FatchuroziHidayatulloh,2 days ago,,Ynwa️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@reydelfinii9700,2 days ago,1.0,If that was haaland they would allow that havertz goal lol ngl,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+@Bruce4lmighty,2 days ago,,The back 4 need extra lessons on how to effectively play the offside trap. They failed miserably today…,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,0
+@Eddymoon941,2 days ago,1.0,Timber he is good player but not Constance because injury ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+@marcellcser5349,2 days ago,,SZOBO is a key player for LFC!,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0
+@vocheseleon,2 days ago,,Kiwior is ready,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@Teghale,1 day ago,,True,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@TrueGooner1511,2 days ago,,If Big Gab and Timber were still on they would’ve denied the 2nd Liverpool goal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@princeobiiistv-yp4rf,2 days ago,2.0,"WHY ALL THIS REFFS NOT HELD ACCOUNTABLE FOR ALL THIS RUBBISH OFFICIATING, HOW WAS HAVARTZ GOAL WAS DISALLOWED IS WHAT I CANT UNDERSTAND ️",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@chukwuemekaugochukwu5662,2 days ago,,Good one for arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@BlessedYouTuber,2 days ago,,Arsenal since Wenger days are disturbed by set pieces.  Lucky to get a point.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@avb2522,2 days ago,1.0,another underwhelming game from the Gunners.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@OlisaebukaH.E.-xt3vp,2 days ago,,"The fanbase here in 🇳🇬 are growing higher in belief in d wonder we are @, clubs assured of winning us home & away, now beg for a draw
+Though we miss Timber & Gabriel Fernandez",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@sanketkhandagale7828,2 days ago,1.0,That Liverpool lb ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@olafweinzer5746,2 days ago (edited),1.0,Arsenal has players who are not winners. 2nd or 3rd place in table.,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@madesumertha9657,2 days ago,,"as a liverpool fans
+i have a question
+why saka always good in first half",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@aarcees22,2 days ago (edited),,"van djik could have done something to prevent the 1st goal ,he should give cover to robertson when saka receive the ball rather than let robertson alone defence saka",1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0
+@alfredkay3210,21 hours ago,,"Arsenal's second goal was offside, I don''t know why VAR could not see that Arsenal players did actually put themselves on side after they stand offside before the ball was kicked, they tried to get back on side but they didn't completely put themselves on side at all, they were always behind the line setup by Liverpool's players. That goal was offside period! It shouldn't have been allowed to stand.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ФёдорКуракин-к9ш,2 days ago,,Любой матч арсенала и МС невозможно смотреть.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@ricstanley8769,2 days ago,,Why was the goal disallowed at the end I'm confused,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@comic_dream,2 days ago (edited),1.0,"After 9 match, I can concluded that the biggest challenge for Arsenal this season are referee & injuries.  
+
+I don’t mind to lose if we play poor. But I can’t accept any poor referee. Arsenal player can simply get yellow card for any reason, just touch or trip down the opponent even in attack also will get a foul or card. But opponents simply can just use their whole body to bang into our player with no foul, no penalty, no card.",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Ericjunior7656,2 days ago (edited),,Why Tailor gave that as a foul in the third goal surprises many.. It is the usual poor refereeing. We are proud regardless..,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@virajphadte4345,2 days ago,,"Luis Diaz play looks good but it's one touch to many, usually ends up in opponents hands or right footer shot wide.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@SuriHane,2 days ago,,That goal should’ve stood.. what a joke of a ref. He waited for the chance to be clear on goal before signalling a foul (which is also not a foul),1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@simalinkundang24,2 days ago,,"Also also, the sideline official was either blind or corrupt for not giving us corner kick in the last second of the game.",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+@arsenal81,2 days ago,,Вы нас огорчили,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@marshalgrayson6482,2 days ago,,"How Arsenal was playing every time :
+
+Attack, Control the game, Scored.
+
+Drop off early, let the opposition control the game, Conceded.
+
+Repeat.",0,1,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0
+@Footballallnews99,2 days ago,,Not a good performance by Small Gabi and Kai but as Arteta said Kai needs love he needs to feel protected around him. But he didn’t feel protected because there are number of players injured. So lets move on and focus on Newcastle,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@dwayneharris4787,2 days ago (edited),,1:38 You can CLEARLY see the ref blow the whistle only when he realises Havertz is in to score a goal. Liverpool's No.8 didn't have a clue about a foul or that a foul was given against him. Robbed,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@oluwaseunadeleye7773,2 days ago,,That was suppose to be the winning goal. Keeper didn't touch the ball and didn't even shake him or fell him down.,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@richardsmith9615,2 days ago,,Why is Antony Taylor still allowed to Referee Arsenal games? Same guy allowed a much more obvious foul against Newcastle last season which ultimately cost us.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@quigonjean,2 days ago (edited),,Even though i'm on lfc side i still couldn't figuring out what makes him blow the whistle 1:37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mr__OK,2 days ago,,Lewis skelly forgot that he came on as LB.   Where was he for the goal ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@aurosilva1693,2 days ago,,"Question.
+On Liverpool's 2 goal, Salah influenced the play when Trent passed the ball. Shouldn't the referee call for an offside?",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@SalumKazumari,2 days ago,,Shaka should come to united to save us as a messiah,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@yaninvaders,2 days ago,,"Salah 32 years of age, and two Arsenal defenders are left far behind. How come?",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@petersmitgary,2 days ago,,"At least this time, the video title cannot manipulate to fictitious victory of Arsenal.",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@sothdestiny9496,2 days ago,,"This highlight did not show where the dark-art FC goalkeeper and players where falling and lying down on the field. As their new skill, it should be included in highlights",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@RasongKaka,2 days ago,,Now I understand why Mikel Arteta keep on buying defender..,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@07feb2008,2 days ago,,"At the start of the season, we were boasting about our defence. Only air can pass through our back four. That's what we said. And now...
+Saliba - Injured
+Tomiasu - Injured
+Calafiori - Injured
+Gabriel - Substituted (Hope it is not serious)
+Timber - Substituted (Hope it is not serious)
+
+Help us God!",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@holdtightadele8017,2 days ago,,"I keep watching that disallowed goal… why doesn’t ref blow the whistle immediately after the “foul”, fully how no LFC players were appealing… he barely touched him he just jumped to win the header. Should have been 3-2 imo",0,1,0,1,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0
+@joshuaohuka7719,2 days ago,,Fans out here wailing about our transfer season... Yet both our signing have produced pivotal goals in their first 4 starts for us... Stop whining and let the coach coach...,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@kehinde11,2 days ago,,now i'm sure no one would complain if arteta spends next transfer window getting 5 CB's and 5 Wb's ,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@coolgamer5439,2 days ago,,Salah positioning to expect pass to score a goal,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@didiertano2338,2 days ago,,"Chelsea is now 1 point behind Arsenal with a better GD. Liverpool  and City are still above Arsenal, this was a good day at the office",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ARPAGRAFIKA,2 days ago,,"As long as Guardiola is the manager of City, Arteta and Arsenal are just a participant.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@auchojaqson8928,2 days ago,,Anthony Taylor just decided to make up a foul for Liverpool immediately he realized we're beating them... I don't know how we are going to survive with all the hatred and biasness from the PL REFEREES,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@jackthumbikomkandawire8591,2 days ago,,"Our players are dropping like flies!
+And I don't get why our winning goal was denied",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@randeendalley720,2 days ago,,Partey was so good,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@heihachi608,2 days ago,,"How is it a foul by kiwior for the 3rd goal? also, how delayed is the ref's whistle. He blows it way after it only when we are clear through.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@domagojhrgovic7419,2 days ago,,Tapas Pulis always defends deep when we go up. That's not how you win the league.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@rasyiddwicahyo3540,2 days ago,1.0,Dont waste your time in Arsenal. You got nothing Saka.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@Marvellous298,1 day ago,,COYG ️️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Ramus5s,2 days ago,,Should've won  but this quite the result despite the injuries,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@rickytv7877,2 days ago,,We only need salah,0,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@BanjarFootball,2 days ago,,Emirates Stadium A.K.A Salah playground ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@mnbvcxzzxcvbnm,2 days ago,,Commentator hates Liverpool for sure ! ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mumfy3131,2 days ago,,I still don't know why that goal was disallowed,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@thetru3h,2 days ago,,as a barca fan impressivee,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@denissiviglia2445,1 day ago,,What has taylor whistled in the third goal by Arsenal?,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+@kelanisa7104,2 days ago,,"Please, guys, where was the foul coming from with Arsenal 3rd goal",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@richardsaidi9379,2 days ago,,What did the ref blow the whistle for?,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0
+@lewantego,2 days ago,,"Arsenal without martin, their game is a mess",0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@ariastatelu,2 days ago,,David Raya should have done better to safe those second goal by being aggresive taking the initiative,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@jag2743,1 day ago,,Miss odegaard ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@roa6311,2 days ago (edited),1.0,"Again we lose points cheaply while Manchester City slips through in the last minutes, I don't understand these Arteta changes where he puts in young inexperienced players of 17,18 years old.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@wafulanathan547,2 days ago,,Haverts didn't make any faul whatsoever Tyler just got it wrong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@obinecheugochukwu6875,2 days ago,,Robertson defending leading to saka goal was so poor,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@jaysun2585,2 days ago,,Hope we all inform that we not gunning for premier league this season,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@yardgunner4033,2 days ago,,"As optimistic as i would like to be, city will not give up a 5 nil lead, they unfortunately won their 5 straight premier league title",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+@thomasjeb23,2 days ago,,Am I the only one who felt we dropped 2 points this game??.. We are 2-1 up.. playing at home .. with 11 men!.. just because Gabi got injured.. why should that make us concede possession so much.. our back line is good enough to beat the press and hold the ball. We kept thumping it forward hoping Kai could hold the ball up and get a foul. This defensive mentality when we are up is going to kill us this season,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,1
+@sdarki9231,2 days ago,1.0,Nahh did kai havertz just kiss saka after his goal ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@AnarchistKropotkin,2 days ago,,Im United supporter but i think Liverpool deserves to win PL and City must be stopped,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+@yardgunner4033,2 days ago,,"As optimistic as i would like to be, city will not give up a 5 nil lead, they unfortunately won their 5 straight premier league title",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+@tiebrainmarteensfarai8184,1 day ago,,"That Moreno goal was an offside
+VAR robbed Liverpool there",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@josephm5493,2 days ago,,"Havertz, Jesus, TAA and Kelleher should all have received yellow cards for playing on after the whistle there. Clearly delayed the restart.",0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@M.A.S.26,2 days ago,,why did he wait? why was he waiting to whistle? why are premier league refferes so inconsistent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@adejefri3452,2 days ago,,"Kita butuh pemain sayap kiri yang lebih bisa menekan, tanpa membuang banyak peluang",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@chaihtetlangcabin,2 days ago,,Who is foul in the Arsenal last minute goal..?,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@NoaNafimane,2 days ago,,Our team Arsenal,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@kagisomarvinmolekwa3933,2 days ago,2.0,"Without Saka, Arsenal is nothing. Gosh the lengths they went to to get him to play",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@harrisonkazungu7793,2 days ago,,There was no offside if so why could the lines man raise the flag and if the referee so the offside from where he was standing its so amazing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@dafny1002,2 days ago,,Has anyone noticed how we're losing a player every match..like if it's not a red card.. it's injuries.. First Saliba red card then Calafiori injury and now Gabriel injury.. consecutively,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@samarkumar2200,2 days ago,,I don't like highlights without time line,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@pakka170,2 days ago,,damn ref saw that havertz might score then he decides to blow the whistle ️️,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Kelekdental,2 days ago,,"Bukayo , starboy",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@ossnips9329,2 days ago,,Take the draw but I am not liking the amount of injuries we are picking up,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0
+@asaagung6973,2 days ago,,Saka is more important than Ode?? ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@danogunner,2 days ago,,How the HELL was that a foul!!?? Robbed!! Anthony Taylor  you MUPPET - NO Liverpool player complains,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mohammadiqbalnaimy1537,2 days ago,,you guys should have bagged all 3 points,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@bambangpeewee4121,2 days ago,,Cakep... 1 point penting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@giovannitakene1221,2 days ago,1.0,"Kiwior need to more aggresive,.. and read the game quickly",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@WrestleWithAdi,2 days ago (edited),,We conceeded second one defending like we Barrow FC,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@giovannitakene1221,2 days ago,1.0,"Kiwior need to more aggresive,.. and read the game quickly",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@WrestleWithAdi,2 days ago (edited),,We conceeded second one defending like we Barrow FC,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@johan7_7,2 days ago (edited),,No foul by kiwior. Szob was too slow and did not even jump for that header,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@БаходирХамроев-х2ь,2 days ago,1.0,Liverpool ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@pokefan3986,1 day ago,,We tied but I know Arsenal will win the 2024/25 Premier League️ (GG Liverpool).,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,1,0
+@apin7108,2 days ago,1.0,"I can't stand with this mentality, every time we're ahead then suddenly we sit tight on defense. Feels like small club try to secure win against big team, what a shame. Every counter attack nobody running, there always someone to delay and backpass again, WE AIN'T GOING NOWHERE WITH THIS MENTALITY.
+
+WE HAVE TO ADMIT THAT OUR HALF SQUAD IS ONLY BETA.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@yusufahmad1453,2 days ago,,Joss bro,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ahmadomar5806,2 days ago,1.0,"Thanks Mo Salah, you saved the world from noise pollution of the team with no titles ",1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@dantethewonderkid2731,2 days ago,,"People Havert miss a sitter, we would have been 3-1 at half time, these kind of chances are clinical in a big game like this",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+@syedmohammadnoorallahshahn6785,1 day ago,,I feel sorry for Robertson,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@thelegacy8552,2 days ago,,Roberson needs to improve man …but I’ll take a draw away from home,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@chiderajames8387,2 days ago,,Why did Antony Taylor disallow that goal,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+@Penaldotv,2 days ago,,"Arteta putting skelly instead of zinchenko i knew we will not win that game, zinchenko is liability defensively but why gamble for a young boy who has not played such kinds of game.",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@staarren8119,2 days ago,,how tf was tje last goal dissalowed?? nothing wrong at all with it,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@kgosietsilempala7047,2 days ago,,Saka scored and he wasn’t even in the thumbnail ,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@dsa-fv3hv,2 days ago,,The referee is against us again. The last corner was not awarded,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@rumnraisan,2 days ago,,How the hell is that header at 1.44 through to Havertz a foul on the Liverpool player?,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@adilkhanduisebayev6487,2 days ago,1.0,"Arsenal and Liverpool played, MC won",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@TravelWithNouman11,2 days ago,,Mo Salah Magical performance ,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@PerrenWynnick,2 days ago (edited),,Ok let's be honest what was wrong with Arsenal's 3 goal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@janeharper9329,2 days ago,,better team liverpool bigger club great result from home,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,1,1,1,1,1,0,1,1,1,1
+@nelsonragor7902,2 days ago,,The commentator is an arsenal fan. Listen how he celebrates arsenal goals vis a vis Liverpool's,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@Intercontinental_Statistics,2 days ago,,King Salah,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@M.A.S.26,2 days ago,,how is the kiwior header a foul? can someone please explain it to me? and why did he whistle when havertz got the ball over the keeper?,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@remyedmonds960,2 days ago,,What was the foul for at the end? The header or the slightly high foot that didn't get close to anyone! BS ref and officials don't want Arsenal to win. ️,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+@timdurgan,2 days ago,,Why not show the blatant violent conduct by VVD who kicked out TWICE and left our man in a heap on the floor? The most blatant red you'll ever see.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@李偉論,2 days ago (edited),,Man City win the title again this year no one can stop them,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@mimbarwisnu1195,2 days ago,,"If referee doing double standard to Arsenal, so we have to face it and do more hardwork and minimze the fault",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Classic-nl4db,2 days ago,,Why was Havertz goal disallowed ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@depressedadultguy6822,2 days ago,,Without saliba we concede in set piece.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@AwandeBiyela-nn4lz,2 days ago,,This Commentator is supporting Arsenal ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@rangaherath1358,2 days ago,,"Saka  
+Old MUN Cristiano celebration",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@sneijdergomez,2 days ago,,Vamos,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@jaihind9194,2 days ago,1.0,"Arsenal have become proper Mourinho team. It was evident in 2nd half after Gabriel injury. With red card 10 man, it is totally understandable. But, with 11 on field, team like Arsenal parking bus plus devoid of attacking ideas through the middle is not looking good.
+Further, Arsenal holding midfielder no 6 don't arrive in box and no 10 creativity/ dribling/direct play is totally missing. It is all wingers or set pieces.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@yasirrao1539,2 days ago,,Muhammad Salah,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@LifeOfnuruDeen,2 days ago,,Luis Diaz should loan to Dundee fc,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@jesusslord,2 days ago,,It was Arsenal vs VAR.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Nantumbwe-sarah,2 days ago,,COYG,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Gunnerizzbackk,2 days ago,,Why are we playing against 12 in every game this season ?,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@rdholyfield965,2 days ago,,Time to take legal action against  Howard webb and his cronies. Eversince Arteta called the PGMOL a disgrace Arsenal  have been getting on the wrong end of ref's decisions .In today's  game 3 atrocious decisions by the ref .1. VVD should have been red carded for his violent attack on Havertz. 2 Martinelli should have been awarded a penalty when he was taken out by Konate. 3. Arsenal's 3rd goal wrongly disallowed  when kiwior  made a fair 50/50 challenge  for the ball.,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,1,0
+@pauleet,2 days ago,,Taylor or any ref. Desperate to find a reason to stop arsenal scoring,0,1,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@pauleet,2 days ago,,Taylor or any ref. Desperate to find a reason to stop arsenal scoring,0,1,0,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@themob4762,2 days ago,,We're cooked if we keep performing like this,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@jayjoshcam4791,2 days ago,1.0,"Please can somebody in the life of me explain to me why that third goal was disallowed??? 
+
+Is everything okay with these refs? 1:50",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@highlightfootball6426,2 days ago (edited),,"1:28 If United's player in this position, they will choose shoot the ball rather give an assist",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@KunCity,2 days ago,,Win for City,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Kaddocevrijeme,2 days ago,,Arsenal ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@abdulhafiedz7447,2 days ago,,"Musim lalu adalah peluang terbaik untuk juara EPL, dan kita melewatkannya",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@hjmuniroh-o5v,2 days ago,,not bad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@comic_dream,2 days ago,,"After 9 match, I can concluded that the biggest challenge for Arsenal this season are referee & injuries.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@VictorVally,18 hours ago,,"Arsenal,is"",winned""never
+Jb
+
+
+
+
+
+
+
+
+
+Arsenal""is""winned""never jb",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@mamangbos4502,2 days ago,1.0,"Martineli, kiwior sell",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@christopherchipindirwe2893,2 days ago,,This commentator is an arsenal fan,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@abdulmanan2067,1 day ago,,wow goll,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@pondra546,2 days ago,,2 time  with the same score,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@marcernest3165,2 days ago,,"We needed the 3 points. Even though we often look great like we did, we won't win the league like this. It will be another close entertaining season with high hopes and then disappointment. I'm not holding my breath sorry.",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+@eliasteku9872,1 day ago,,"arsenal get humbled , This is liverpool",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@patrikcarlsson8975,2 days ago (edited),,"The referee cowardly blew the whistle. Great headers from Kiwior and Havertz. Should’ve been 3-2. Then, not giving Arsenal the corner when it obviously was.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@fahmirizal3178,2 days ago (edited),,Saka who failed to convert penalty at euro final,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@nongwadbniah2262,2 days ago,,The second goal of Liverpool should have  been checked by arsenal defender... Should have body check salah,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@Footballallnews99,2 days ago,,Kiwior,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@jtan4213,2 days ago,,Kiwior decision and Harvetz decision - quite clearly Arsenal is targeted by referees this season,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@fakeprophet9741,2 days ago,,Feels like a loss,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+@MateusManuel-tg2cb,2 days ago,,"Said it all,Man city is the champion.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@andromeda447,2 days ago,,Robert Huert'e selam ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Derisseauwalker,15 hours ago,,Vinicius Jr ,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@normantan7796,2 days ago,,Old man Robertson lost his legs. He is going south.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ناصرالفهيد-ض9ف,2 days ago,1.0,أرسنال كيبير لندن ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@rayanfarhat4602,2 days ago,,Why wasn’t Alison playing,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@nightmarez7772,2 days ago,,Arsenal fans says saka is better than prime messi..really??,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ubbungkalitan7929,1 day ago,1.0,0:59 Diaz selfish ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MoschettoBornInScampia,2 days ago,,"Arteta listen to me carefully, there are many injuries and you are right about this, today with Partey as a full-back you were just lucky because he is very slow... and it went well for you... you were winning 2-1 you could have managed the advantage better instead you gave the field free to Liverpool...you gave Nuno Tavares to Lazio and he became very strong..and you lack defenders...do you understand football? You lost another season",1,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0
+@ricardosantos7856,2 days ago,,"I am extremely proud of Arsenal’s performance and guts. I think what the boys and Arteta have done so far this season is of the highest quality. 
+
+However, honestly, I can’t stand watching PL refereeing anymore. I will continue to follow Arsenal on the other competitions but, at present, I have completely lost interest due to the asymmetrical refereeing against Arsenal! ",1,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0
+@brucesiamunyama147,2 days ago,,But why arsenal was denied last goal,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@TheShillongHarleyRider,2 days ago,,Lets face it...We were up fookin 2-1 ..at our home ground..and we gave them the initiative to have the upper hand...We  shudve gone for the kill..a 2 goal cushion is always better...Sorry..this one's on Arteta..he missed the PLOT,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@preyedumbe6975,1 day ago,,Look at Robinson what a poor defending ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Nnamdipeter-rq5gh,2 days ago,,If you're an arsenal fan and you're hoping for anything good from this club then you are still sleeping on a bicycle...,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+@z219-33,1 day ago,,UNSPORTING from havertz as he pushed trent in the last goal. arsenal is the biggest premier league disgrace,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@prometheus6688,2 days ago,,How were you guys robbed ?? it was a clear foul to szoboszlai.,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1
+@fatilove62,2 days ago,,Kiwor would have been tackled Salah ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@WelcometoTajikistan2023,1 day ago,,LIVERPOOL MO SALAH,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Altaska23_Tv,2 days ago,,"Bek pada cidera, untuk 2-2",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@UwisunzemariyaTeta,2 days ago,,Arsenal ️️️️️️️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Aedid05,2 days ago,,I hope all English referees live happily with their 'wisest' decisions and don’t regret their official choices.,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+@SongofIceandTea,2 days ago,,"Arteta need top class left winger, Martineli won't do, all the best team in the world have 2 top class wingers. Btw 1:44, blud literally blow the whistle when he saw Havertz about to score a goal, they didn't even hide it anymore ",0,1,0,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,1,1,1,1
+@nanangpratikno3402,2 days ago,,Whay???? if win always thing to defent,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@NicholasMugo-yz6pl,2 days ago,1.0,"What is wrong with the header for Ref to blow. England las the worst Referees in the whole of Europe, I have never seen this.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+@uzomanworgu6458,2 days ago,,SAKA!!!!!!!!!!!!!,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MadhavSingh93,2 days ago,,Beating Liverpool is not easy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Elelelhombre,2 days ago,,Why does saka always copy celebrations?,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@ChlnRdn_99,1 day ago,,Robertson,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@leafhead907,2 days ago,,3rd goal should have counted,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@yogiswaraj4170,2 days ago,,It feels like a lost to me..,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@namanyagodwin3210,2 days ago,,"Sell Jakub Kiwior as soon as possible in January.
+Poor position in Liverpool's second Goal.",0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@No_9999,2 days ago,,"You cannot beat Arsenal
+Offf yess we have Referees who can help us!!!!
+Shame on you Premier League!!!!",1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+@hamtan99,2 days ago,,Whistle already still wants to kick it into goal. Should give red card.,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@harryvirdee6097,2 days ago,,Virgil controlled u lot,0,1,0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0
+@Adturbo8u,2 days ago,1.0,So close,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@rhemamusic6502,1 day ago,,"Miles can play as a defender, but he just isn't.. the instinct to track your man isn't just there . Not discrediting his positivity on the ball tho",0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@besukalayenew740,2 days ago,,why all like this,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@muhibin8335,1 day ago,,nunuz,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@muhibin8335,1 day ago,,nunuz,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@_switchplay_,2 days ago,1.0,"Virgil van Dijk won more duels (7), made more clearances (6) and won more aerial duels (5) than any other Liverpool player against Arsenal. 
+
+And he scored his first league goal of the campaign.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@isaac4393,2 days ago,,We shall meet at anfield,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@ZOOWAY12-i6w,2 days ago,,Not an Arsenal fan but where is havertz foul?,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@richardmichael7523,2 days ago,,"The end of the game was weird. Ni celebration from none, especially from Arsenal coz we almost had it",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@joeyd.9296,2 days ago,,Why does this team plays like Atletico Madrid? it's not fun to watch anymore.,0,1,0,1,1,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,1,0,1
+@johnwall4058,2 days ago,,Stay humble eh 🫳,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@faizalawal1177,2 days ago (edited),,I think harvezt can only play in midfield not striker.if he upfront he like German Bendtner.his leg like pillow not spring like messi.thats why he always miss.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@Ogabroz,2 days ago,,Pls how's that a foul Liverpool player bent when kiwor headed the ball pls how....,0,1,0,1,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@DeBuDDi,2 days ago,,nice draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@harrisonkazungu7793,2 days ago,,Where is the mistake l can't see any off side n the ball was headed up no fault,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@nightking5907,1 day ago,,So jumping is deemed foul play now. Noted.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,0,1,1,0
+@husenalidrus2913,2 days ago,,"Minimal gak kalah, walau babak ke 2 dar der dor ",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kevinmuhia1562,2 days ago,,Wenger said that you pay for a young player's education with points. MLS at 1:24 ,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0
+@muhambwetvonline,2 days ago,,Arsenal second goal was clear offside,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@poldimuhammad4254,2 days ago,,Please someone explain this 1:43 ?,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@riclerico,2 days ago,,Too bad we've has some tough games in. Red cards and injuries but i really dont like Arteta and Jesus' situation.,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@localguy123,2 days ago,,"Well there goes our season. . I am still not convinced by Havertz, he will not get us the title.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@yashsawant8925,2 days ago,1.0,Pgmol ruined pl,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@RevanRevan-ee9mx,20 hours ago,,Revan,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@RevanRevan-ee9mx,20 hours ago,,Revan,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@lievinntaganda1715,2 days ago,,"Jesus Christ is the way, the truth and the life. Day of repentance is today",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@SammyBlack-mj7vv,2 days ago,,How that last Arsenal goal not goal ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@RevanRevan-ee9mx,1 day ago,,Revan,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@JonathanEdward-k6j,2 days ago (edited),,"Gunners on fire,rice, Merino,raya,white,haverzt, trossard,martinelli partey and saka is amazing in this match,but ITS not good enough!! Martinelli selisih!!!!!!! Why gabjes and try Sterling play first not martinelli,i know Sterling old,but he good experience,he was Liverpools before,he know how to faced TAA,he good more than Martinelli!!!!!!who can stop mo salah!! I hope were win this match!! Im so disappointed ",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@Marwan..121,2 days ago,1.0,...lets now show all club matches highlights from around the world...but the truth is nobody cares ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@anenechikamsostephen1054,2 days ago,,I'm only here to laugh at Arsenal bottling company ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0
+@pkitatta,2 days ago,,So Arsenal got more injuries trying to beat Liverpool. A sign of trying to punch above your weight.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@mwendiadennis6638,2 days ago,,Virjil should be carded,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Lastchapterinworld,2 days ago,,"This year, Arsenal still cant win",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@naeemhere3200,2 days ago,,HOW WAS THAT A FOUL BY KIWIOR!?? Anthony Taylor is corrupt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@abrarabdullah4714,2 days ago,,King Moo,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@Eddymoon941,2 days ago,,Timber A.K.A injury man,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Hakimlfc13,2 days ago,,Salah.. ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@indorama1,2 days ago,,"Terlalu banyak Fans Arsenal menggerutu. Jelas wasit banyak membantu pihak tuan rumah, tetapi selalu beralasan wasit tidak benar. Memang beda mental team pecundang dengan Tim juara sejati.
+Tetap YNWA",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@samueloladelelayiwola2370,1 day ago,,Arsenal won the match and the referee can't escape the wrath of God,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@abhijeetbhosale8761,2 days ago,,If arsenal first team players were fit. It would have been an easy win.,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@DesmondDino,2 days ago,1.0,Egyptian King ,0,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@Atarcmatrixh-yt4jf,2 days ago,,Luis diaz,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Atarcmatrixh-yt4jf,2 days ago,,Luis diaz,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@medhatbasuni7208,2 days ago,,Swipe Kiwior for the God sake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Uche8176,2 days ago,,In there stadium up liverpool,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Lobags1984,2 days ago,,How you gonna punish a player by calling a foul where he wins it in the air by header that is ridiculous. The other player just stands there under the ball and had no Intention of jumping for it this game is ruined by refs. The simplest way to improve reffing is to get people who have actually played the game be a simple compulsory thing because having a random geek who’s never stepped a foot on the pitch ref a game like that ends up with calls that are ridiculous,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@Reyyyyzz20,13 hours ago,,GG,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@AndyFernandez-m7q,2 days ago,,Arsenal won the game but England FA can't allow arsenal to win ,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@marygikonyo-yq4yq,1 day ago,,They took one goal from Arsenal,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@eviyan8444,2 days ago,,Fly arteta...fly........ YNWA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@AliBaba-l5j,1 day ago,,Hi,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,1,1,1
+@tumbemokikon8425,1 day ago,,Good news for Man City.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ewfz70,2 days ago,,The true winner in this match is Man City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@terranceadu5137,2 days ago,,PGMOL why.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@gimmecheesecake,2 days ago,,cant spell arsenal without arse,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@benyvicky4703,2 days ago,,COYG,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@sachintulachan2641,2 days ago,,COYG,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@adaaja8174,2 days ago,,Kiwior oh kiwior...,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@relaxreal4674,2 days ago,,"The ref doesn't want arsenal to win, ask a psychologist to analyse the ref's behavior..",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@AdnanZenulKapadia,2 days ago,1.0,Arteta out ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@cantoncornel6948,2 days ago,,Arsenal  were denied a clear goal,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@benkwongcw,2 days ago (edited),,"For the disallowed goal, there are 3 possible fouls there.
+1. Kiwior jumped and pushed over Sobo
+2. Harvertz handball when receiving ball from Kiwior
+3. Harvertz bumped Arnold into the net (Arnold kicked the ball first).
+
+Each of the above can disallow it.",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@YuuYuu-mh1tn,23 hours ago,,Is not  easy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@YuuYuu-mh1tn,23 hours ago,,Is not  easy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Snipergaming-14,2 days ago,,"arsenal fc
+defense fc pro max",0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@_Adi_1,2 days ago,,wow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@sylvesterken6084,2 days ago,,Same song since last epl title ...arsenal will win this league.x 100,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@fongwinson5017,2 days ago,,Both teams scored by lefty right wings and set pieces.  Close rivalries! Ref also kept up his poor performance as usual.,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1
+@KevinColt,2 days ago,2.0,Thanks to both teams in the name of all Man City fans,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+@tondemtizira3116,2 days ago,,3rd goal denied by pgmol,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@konazote348,2 days ago,,Haverts lost us the game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@nickhilpal,1 day ago,,why there is non penalty,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@mohinur6099,2 days ago,,это ккой год,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kflex1812,2 days ago,,LiVARpool and there 12th man was MoM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@jeanmelo3003,2 days ago,1.0,Kiwior is bad.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@wongpandai,2 days ago,,Partey get cooked by Diaz ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@derrickshampaya4585,2 days ago,,"The ref blew the whistle when he saw the arsenal were scoring, why didn't he blow the whistle when the ball was headed? Stupid refs of epl. They hate arsenal i don't know why.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@jeffzheng1913,2 days ago,,Martinelli is old already.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@manggaraichanel9075,2 days ago,,Arsenall,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@danielsthoughts,2 days ago,,Partey but NO party ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Phantom-xy2bw,2 days ago,1.0,refs always against arsenal,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@vwanve,2 days ago,,"Some random club in Romania has more European heritage than arsenal 
+Can't win at home",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@sergedubois7544,2 days ago,,Really really disappointed this season arsenal not great at all always problems and something happens always to arsenal,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@sergedubois7544,2 days ago,,Really really disappointed this season arsenal not great at all always problems and something happens always to arsenal,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@lotussanitarywaresales,2 days ago,,nice arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@rebahanlovers8299,2 days ago,,thanks botak,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1
+@vinunleaded,2 days ago,,Riley is an absolutely abominable referee.  He's given handball against Haverz when when the ball clearly comes of the t-shirt line part of his arm.,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@chewybacca1616,1 day ago,,"Arsenic already bottled their season 
+About time them injuries came along, longay it continue.
+It's so cool you got a clueless manager.
+The new Tottenham Hotspur, season is finished already and there is no hope for the future.",0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0
+@jafarardiyanto9716,2 days ago,,Wasit wasit mereka ini betul2 Sangat Buruk...Sangat parah,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@MevSyou-l6b,2 days ago,1.0,Martenili ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@buhariharuna2408,2 days ago (edited),,"Bad officiating week in week out always against Arsenal.
+
+
+EPL corruptions is second to none!!!
+
+
+What is wrong with the header that Leeds to the goal we scored ???????????",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@gamer_bro01,1 day ago,,Anthony Taylor ️🫠,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@mingaydan,1 day ago,,Ngl I do think Arsenal has the chance of winning the champions league considering the refs are ruining our performance and how much better the ucl refs,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Edyy_Officiall,2 days ago,,Arsendallll,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Nspiredmind,2 days ago,,Referees in England are content creators. They are a joke,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+@harrygriffin9396,1 day ago,,We were robbed,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@ibras849,2 days ago,,Watch carefully at anthony taylor he was looking at the ball in the air and after havertz won the ball he blew the whistle. Corrupt as always,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,0,1,0,1,0,1,1
+@dennisotengo373,2 days ago,,Ben white can pass,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@victorsanga2229,2 days ago,,Both teams are poor in defence,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@antontendik,1 day ago,,merino offside,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@아아-m3t1e,2 days ago,,2vs2 ㅎㅎ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@victorsanga2229,2 days ago,,Both teams are poor in defence,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@antontendik,1 day ago,,merino offside,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@아아-m3t1e,2 days ago,,2vs2 ㅎㅎ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@jrgenramdahl123,2 days ago,,"3-2*
+
+Just bad referee that made it 2-2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@Akainu-rider,23 hours ago,,Kai goal ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@secangkirkopi2003,2 days ago,,Liverpool > Arsenal,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@qwerty666-hs2zz,2 days ago,1.0,English Referee is L,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@supercars_worldwide570,1 day ago,,lol een soboslayi didnt thinks its a foul cause he didnt challenge for the ball in the air but oh well,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@MisganawAdeme,2 days ago,,saka wuddded,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MinKhantKhant-iq9hy,2 days ago,,အာဆင်နယ်မှာ ဟိုအရင်တုန်းကလို   အတွင်း ဒလံ  ရှိနေပုံပဲဗျာ  ပွဲတွေ အရင်နှစ်တွေကလောက် ကြည့်မကောင်းတော့တာ အမှန်ပဲ ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@31citabangkitsanjayatambun10,2 days ago,,Refere don't netral ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@DikriRahman25,1 day ago,,￼,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@thomasperkins8228,2 days ago,1.0,Refs out,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@user-lb5dw4iv9b,2 days ago,,Kiwior is slow and out of depth,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@ODONGODOUGLAS-k3g,2 days ago,,English refs could be betting  and also VAR is a disgrace e.g van going without a card after kicking kai shame on english refs.,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@Rowe_mom,2 days ago,,buy smith rowe,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@amruakim1,2 days ago,,Wasted chance to lead the table,0,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,1,0
+@SukaSukaMu,2 days ago,,Tombol >>> Arteta OUT...,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@rizkyhidayat8330,18 hours ago,,ok,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@amruakim1,2 days ago,,Wasted chance to lead the table,0,1,0,0,1,1,0,1,1,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,1,0
+@SukaSukaMu,2 days ago,,Tombol >>> Arteta OUT...,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@rizkyhidayat8330,18 hours ago,,ok,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@elyasdanuray8650,2 days ago,,Kiwior out!!!,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@anelekani6791,1 day ago,,Thomas Teye Partey ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@JephKipkorir,2 days ago,,"I think we should just focus on other competitions like the champions league. Premier league referees are a travesty 
+We will never win the premier league",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@vaibhav4599,2 days ago,,Stay humble,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@muhammadarri3187,2 days ago,,Arsenal tim penghibur bukan pemenangan akhir musim ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@airlanggamaulana5964,2 days ago,,Declan rice take captain,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@_switchplay_,2 days ago,2.0,"Mohamed Salah has now scored 10+ goals against three different sides in the Premier League for Liverpool:
+
+◎ vs. Man Utd
+◎ vs. West Ham
+◉ vs. Arsenal",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@Zeyd959,2 days ago,,Kivior her defe sehv edir.qoyun ondan yaxşi oynuyar.satın getsin.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@EmilRadsky-ll8kx,2 days ago,,Arteta out!,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@razinislam7254,2 days ago,,And here Man city wins Epl,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@DuriKosambi-qn1sn,1 day ago,,ETH OUT,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@PerrenWynnick,2 days ago,,Arsenal getting cheated out another win again it's embarrassing,0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0
+@chandradekeyser,2 days ago,,I love it when they both lose feathers! :) ManCity Champion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@HjjjGghh-d2x,1 day ago,,"Disgraceful, should’ve been a penalty 100% - proof is on my chan",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@yoelarokeum6141,2 days ago,,Referee ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@bnsrtuyul-pj7zn,2 days ago,,dark art can't win,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,0
+@Gtsellerrox2023,2 days ago,,Kiwior out,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@yonatielu3881,2 days ago,,Liverpool lucket it out,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@glennoran1309,4 hours ago,,listen to the commentator celebrate Arsenals goals vs the dull grinding of teeth when liverpool score its a joke LOL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@yonatielu3881,2 days ago,,Liverpool lucket it out,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@glennoran1309,4 hours ago,,listen to the commentator celebrate Arsenals goals vs the dull grinding of teeth when liverpool score its a joke LOL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@odanebailey,2 days ago,,Liverpool,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@siamsaadhizol9854,2 days ago,,Jakub kiwor is so bad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@sandisutrisno544,2 days ago,,Referee,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@waicheng1167,2 days ago,,MOM: referee!,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0
+@nunkeoofficial7947,2 days ago,,Man city win,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+@EYka4,2 days ago,,Wasit tlol,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@alainfritz55,2 days ago,,The way they can cheat arsenal..that's why they neva won the precious titles coz of the Terrible officials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@anjasmara1492,2 days ago,,Arteta out,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@GiYarto-g8m,2 days ago,,Diaz egois,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@dewiherlina7161,22 hours ago,,"Yang paling berkuasa mengatur seluruh dunia  &  akhirat adalah Pencipta Dunia.
+(semua manusia di seluruh dunia diciptakan oleh Pencipta yang sama.   Tapi di dunia ada banyak      agama      &   aliran kepercayaan serta ada juga yang atheis.      Siapakah Pencipta manusia    &   dunia ?   Banyak orang mengakui bahwa Pencipta Dunia  itu antara lain    :    Maha  Kuasa ,  Maha  Kasih.    Maka Pencipta Dunia memberitahu siapa diriNya,  pasti dengan cara yang sangat / paling mudah.    Supaya manusia bisa dengan sangat mudah juga mengetahui Pencipta manusia).
+       Pemilik  Dunia  =  Pemilik  Akhirat
+   Pengatur  Dunia  =  Pengatur  Akhirat
+
+( kalau pemilik rumah,  paling berkuasa  mengatur  +  buat  peraturan  untuk orang - orang yang menghuni / mengontrak rumahnya )",0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@QuanTran-px2wx,2 days ago,,Drop points more again,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+@chilledcoke,2 days ago,,Man City won today,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@ioriedwards7554,2 days ago,,"COMMENTATOR: That delivery yo cannot defend it. totally idiotic comment! YOU CAN DEFEND  ANY FOOKING CORNER, MUPPET",0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1
+@quandogreen,2 days ago,,COYG ️,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@yahayakasim2836,2 days ago,,Saka better than mbappe 100%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@kafka27,2 days ago,,"LFC not going to finish in first 4 places. Weak team, no names.. weak coach.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@Chan-fi9bu,2 days ago,,Liverpool got 4 points lead over arsenal after playing away to arsenal lol now arsenal loud noisy fans going to cry and moan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+@mesakaputea4362,2 days ago,,"Bad, badly officiating.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@dewiherlina7161,1 day ago,,"Pemilik  Dunia   =   Pemilik  Akhirat
+       Pengatur  Dunia  =  Pengatur  Akhirat
+
+Ada 5 hal yang berlaku di seluruh dunia  
+( international )   :
+1] Bahasa international = bahasa inggris,  dari inggris percaya kepada Allah bernama Tuhan YesUs : Pencipta Dunia.
+2] Mata uang international = US $  dari amerika serikat percaya kepada Allah bernama Tuhan YesUs : Pencipta Dunia.
+3] Kalender international=kalender tahun masehi. Hari ini  31 januari 2023 masehi
+(masehi=Mesias=Tuhan YesUs).
+4] Lagu  kebangsaan = semua negara harus punya lagu kebangsaan. (lagu kebangsaan Indonesia : Indonesia Raya)
+Cara beribadah umat kristen, ada : lagu.
+5] Keselamatan = hal - hal   keselamatan untuk manusia yang dipakai hampir diseluruh dunia  (international,  pakai bahasa international : bahasa inggris) =
+zebra   cross,  do not   cross   police line,
+red     cross    international   :      palang     merah    international.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@dewiherlina7161,1 day ago,,"Pemilik  Dunia   =   Pemilik  Akhirat
+       Pengatur  Dunia  =  Pengatur  Akhirat
+
+Ada 5 hal yang berlaku di seluruh dunia  
+( international )   :
+1] Bahasa international = bahasa inggris,  dari inggris percaya kepada Allah bernama Tuhan YesUs : Pencipta Dunia.
+2] Mata uang international = US $  dari amerika serikat percaya kepada Allah bernama Tuhan YesUs : Pencipta Dunia.
+3] Kalender international=kalender tahun masehi. Hari ini  31 januari 2023 masehi
+(masehi=Mesias=Tuhan YesUs).
+4] Lagu  kebangsaan = semua negara harus punya lagu kebangsaan. (lagu kebangsaan Indonesia : Indonesia Raya)
+Cara beribadah umat kristen, ada : lagu.
+5] Keselamatan = hal - hal   keselamatan untuk manusia yang dipakai hampir diseluruh dunia  (international,  pakai bahasa international : bahasa inggris) =
+zebra   cross,  do not   cross   police line,
+red     cross    international   :      palang     merah    international.",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@RescueTribe-u5d,2 days ago,,Arsenal escaped,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@harryblack460,2 days ago,,Arsenal was robbed,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kibatugebreselassie,1 day ago,,Ben deserves balon de or,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@FajarPermana-s8p,2 days ago,,Referee,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@abudbud6453,2 days ago,,Kiwior always useless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+@danieleli6182,2 days ago,,Arteta ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@DomonkosKelemen,2 days ago,,LiVARpool,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Arsenal_fan_boy,2 days ago,1.0, ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@MandalaKhalid,2 days ago,,Nahan imbang doang merasa kayak menang ,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@deshaunpinnock1766,2 days ago,,Robbery again,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@CleoPatra-p9m,2 days ago,,arsenal overrated..always,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@СергейНерезиновск,2 days ago,,Zero trophies team,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
+@karo352,2 days ago,,This match was unfair at All  Fan base of Gooners referee if we had All the Messy Liverpool did to Us we would get 3 red cards Corrupt referee you sold out Everything  Anyways Keep it up Gooners ,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,1,1
+@yuditricahyo2420,2 days ago,,Ya Allah mbok menang ginio cok liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@khalildunkley8263,15 hours ago,,You diving cheats,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+@quranversesdaily_,8 hours ago,,"Dear friends, as believers in one Creator, we find purpose in worshiping ALLAH alone. The Quran (51:56) says that humans and jinns were created solely to worship Him. We see the Quran as the final divine scripture, guiding humanity to truth and righteousness. In Islam, we hold that all prophets — Abraham, Moses, Jesus, and Muhammad, peace be upon them all — were sent by ALLAH to guide people towards monotheism. Muhammad (PBUH) is regarded as the last messenger, with the Quran as the ultimate revelation for humanity.
+
+The path to true success in the hereafter, we believe, is through sincere worship of Allah, the one true God. May we all seek and understand each other's faiths with open hearts, aiming for peace, guidance, and unity.
+
+Please read Quran and your book for two hours. You will find the truth. You will find all the answers in Quran.",1,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1
+@Fear775,2 days ago,,Kiwior sucks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@anggikurniawan8557,2 days ago,,Wasit tai,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kevinasookha8988,2 days ago,,Arsenal r rubbish,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kevinasookha8988,2 days ago,,Arsenal r rubbish,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@agilangsaputra,1 day ago,,.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@jifei3023,2 days ago,,robbed,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@mohammadhegazie7579,2 days ago,,.,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@dilna-h6k,2 days ago,,Imbang terus,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@BestFootballGoalsShorts-BFGS,2 days ago,,---,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kntllodon9877,2 days ago,,noob,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@kakkaka3550,2 days ago,,Arteta dancok,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@UR-CRISTIANO-r9b,1 day ago,,Like,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@gunerarse449,2 days ago,,r,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Jack-eee,2 days ago,1.0,Corrupt league,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@UR-CRISTIANO-r9b,1 day ago,,Like,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+@gunerarse449,2 days ago,,r,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
+@Jack-eee,2 days ago,1.0,Corrupt league,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0
