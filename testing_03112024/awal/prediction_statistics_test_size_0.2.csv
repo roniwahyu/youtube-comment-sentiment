@@ -1,0 +1,4 @@
+Model,Predicted_Ham,Predicted_Spam
+Naive Bayes,381,272
+SVM (linear kernel),540,113
+Random Forest,199,454
