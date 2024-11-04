@@ -1,4 +1,9 @@
 Model,Predicted_Ham,Predicted_Spam
 Naive Bayes,381,272
 SVM (linear kernel),540,113
+SVM (poly kernel),265,388
+SVM (rbf kernel),443,210
+SVM (sigmoid kernel),544,109
 Random Forest,199,454
+Logistic Regression,562,91
+XGBoost,618,35
